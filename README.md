@@ -1,6 +1,6 @@
-# vuelayers-demo
+# vuem
 
-> VueLayers Demo App
+> Vuem
 
 ## Build Setup
 
